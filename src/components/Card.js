@@ -12,7 +12,7 @@ function Card({ content }) {
 
         <a href={content.p} className={styles.card__link__container}>
           <span className={styles.card__link}>Learn More</span>
-          <img width={24} height={24} src="/img/arrow-right.svg" alt="arrow" />
+          <img width={24} height={24} src="img/arrow-right.svg" alt="arrow" />
         </a>
       </div>
     </div>

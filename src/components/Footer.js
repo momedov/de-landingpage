@@ -37,7 +37,7 @@ function Footer(props) {
                   className={styles.footer_logo}
                   width={48}
                   height={32}
-                  src="/img/footer_logo.svg"
+                  src="img/footer_logo.svg"
                   alt="logo"
                 />
                 <span className={styles.footer_logo}>Afrianska</span>

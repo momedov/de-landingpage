@@ -4,19 +4,19 @@ import Card from ".//Card";
 
 const cardContent = [
   {
-    img: "/img/card1.svg",
+    img: "img/card1.svg",
     h2: "Make Your business To Be Better Famous In Internet",
     p: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
     link: "#",
   },
   {
-    img: "/img/card2.svg",
+    img: "img/card2.svg",
     h2: "Bring Technology To Your Comfrotable Home",
     p: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
     link: "#",
   },
   {
-    img: "/img/card3.svg",
+    img: "img/card3.svg",
     h2: "Build Your Digital Product That Suitable For Your Need",
     p: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
     link: "#",

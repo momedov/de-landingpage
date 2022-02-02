@@ -5,8 +5,20 @@ const Header = () => {
     <header className={styles.main__container}>
       <div className={styles.container}>
         <div className={styles.navbar}>
-          <img width={48} height={48} src="/img/logo.svg" alt="logo" />
-          <img width={32} height={32} src="/img/hamburger.svg" alt="hmbrgr" />
+          <img
+            className={styles.navbar__logo}
+            width={48}
+            height={48}
+            src="img/logo.svg"
+            alt="logo"
+          />
+          <img
+            className={styles.navbar__logo}
+            width={32}
+            height={32}
+            src="img/hamburger.svg"
+            alt="hmbrgr"
+          />
         </div>
         <div className={styles.hello__container}>
           <div className={styles.hello__text}>
