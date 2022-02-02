@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/de-landingpage/static/css/main.4812c124.css",
-    "main.js": "/de-landingpage/static/js/main.97db8451.js",
+    "main.css": "/de-landingpage/static/css/main.98eeb724.css",
+    "main.js": "/de-landingpage/static/js/main.33198a65.js",
     "static/media/Gilroy-Light.eot": "/de-landingpage/static/media/Gilroy-Light.8862796bffbd019727b3.eot",
     "static/media/Gilroy-Light.ttf": "/de-landingpage/static/media/Gilroy-Light.1b7fff53076b21283967.ttf",
     "static/media/Gilroy-SemiBold.eot": "/de-landingpage/static/media/Gilroy-SemiBold.8134b9ab378c54626928.eot",
@@ -18,11 +18,11 @@
     "static/media/illustration_small.svg": "/de-landingpage/static/media/illustration_small.c163c40e6d6ae6964002.svg",
     "static/media/illustration_very_small.svg": "/de-landingpage/static/media/illustration_very_small.c9d090d79071a67e07db.svg",
     "index.html": "/de-landingpage/index.html",
-    "main.4812c124.css.map": "/de-landingpage/static/css/main.4812c124.css.map",
-    "main.97db8451.js.map": "/de-landingpage/static/js/main.97db8451.js.map"
+    "main.98eeb724.css.map": "/de-landingpage/static/css/main.98eeb724.css.map",
+    "main.33198a65.js.map": "/de-landingpage/static/js/main.33198a65.js.map"
   },
   "entrypoints": [
-    "static/css/main.4812c124.css",
-    "static/js/main.97db8451.js"
+    "static/css/main.98eeb724.css",
+    "static/js/main.33198a65.js"
   ]
 }
